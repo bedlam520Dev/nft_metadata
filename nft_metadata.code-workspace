@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 13,
+		"files.autoSave": "onFocusChange",
+		"editor.renderWhitespace": "all",
+		"editor.wordWrap": "bounded"
+	}
+}

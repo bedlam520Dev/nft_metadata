@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Fren #1",
+        "description": "Frens staying Low Key",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Stream Blue"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Clothing",
+                "value": "Old Tee"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Lips"
+            },
+            {
+                "trait_type": "Moon Mark",
+                "value": "Hunter"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Reptillian"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "Low Cap"
+            }
+        ],
+        "image": "ipfs://bafybeicwof3xcicybnsflw54gmt645bd4g5aq5cgv3bvk7uducywjbe2hu/998.jpeg",
+        "animation_url": "",
+        "background_color": "",
+        "youtube_url": "",
+        "external_url": "https://lowkey.wtf",
+        "seller_fee_basis_points": 750,
+        "fee_recipient": "0xb13C928355282E1AAd5A94fbcEf884CE912bb4f2",
+        "traits": {
+            "Background": "Blue"
+        }
+    },
+    {
+        "name": "Fren #2",
+        "description": "Frens staying Low Key",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Stream Blue"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Cream"
+            },
+            {
+                "trait_type": "Clothing",
+                "value": "Swamp Jersey"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Bro Teeth"
+            },
+            {
+                "trait_type": "Moon Mark",
+                "value": "Careful"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Baked"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "Low Cap"
+            }
+        ],
+        "image": "ipfs://bafybeicwof3xcicybnsflw54gmt645bd4g5aq5cgv3bvk7uducywjbe2hu/1.jpeg",
+        "animation_url": "",
+        "background_color": "",
+        "youtube_url": "",
+        "external_url": "https://lowkey.wtf",
+        "seller_fee_basis_points": 750,
+        "fee_recipient": "0xb13C928355282E1AAd5A94fbcEf884CE912bb4f2",
+        "traits": {
+            "Background": "Green"
+        }
+    },
+    {
+        "name": "Fren #3",
+        "description": "Frens staying Low Key",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Cream"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Clothing",
+                "value": "Burgundy Pin Tee"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Snitch"
+            },
+            {
+                "trait_type": "Moon Mark",
+                "value": "Calm"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Reptillian"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "Nose Ring"
+            }
+        ],
+        "image": "ipfs://bafybeicwof3xcicybnsflw54gmt645bd4g5aq5cgv3bvk7uducywjbe2hu/10.jpeg",
+        "animation_url": "",
+        "background_color": "",
+        "youtube_url": "",
+        "external_url": "https://lowkey.wtf",
+        "seller_fee_basis_points": 750,
+        "fee_recipient": "0xb13C928355282E1AAd5A94fbcEf884CE912bb4f2",
+        "traits": {
+            "Background": "Green"
+        }
+    }}
+]

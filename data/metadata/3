@@ -1,0 +1,41 @@
+{
+  "name": "Fren #3",
+  "description": "Frens staying Low Key",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Burgundy Pin Tee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snitch"
+    },
+    {
+      "trait_type": "Moon Mark",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptillian"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Nose Ring"
+    }
+  ],
+  "image": "ipfs://bafybeicwof3xcicybnsflw54gmt645bd4g5aq5cgv3bvk7uducywjbe2hu/10.jpeg",
+  "animation_url": null,
+  "background_color": null,
+  "youtube_url": null,
+  "external_url": "https://lowkey.xyz",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xdece49eF08A75f02499d965a36eEAEfFCdD3D483"
+}

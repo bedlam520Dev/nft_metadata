@@ -1,0 +1,41 @@
+{
+  "name": "Fren #2",
+  "description": "Frens staying Low Key",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stream Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Swamp Jersey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bro Teeth"
+    },
+    {
+      "trait_type": "Moon Mark",
+      "value": "Careful"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Baked"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Low Cap"
+    }
+  ],
+  "image": "ipfs://bafybeicwof3xcicybnsflw54gmt645bd4g5aq5cgv3bvk7uducywjbe2hu/1.jpeg",
+  "animation_url": null,
+  "background_color": null,
+  "youtube_url": null,
+  "external_url": "https://lowkey.xyz",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xdece49eF08A75f02499d965a36eEAEfFCdD3D483"
+}
